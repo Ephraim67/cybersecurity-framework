@@ -63,12 +63,11 @@
 
 
 ### **4. Quiz**
-- Which standard is mandatory for credit card companies? (PCI DSS)
+- Which standard is mandatory for credit card companies?
 - What does “CIA triad” stand for?
 - GDPR fines can be up to what percentage of annual revenue?
-- Which framework is published by NIST? (NIST CSF)
-- Name one Nigerian cybersecurity law. (Cybercrime Act, NDPA)
-
+- Which framework is published by NIST? 
+- Name one Nigerian cybersecurity law. 
 
 
 ## ** Deliverables**
