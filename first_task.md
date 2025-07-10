@@ -57,9 +57,6 @@
 
   * **At least one framework**
   * **At least two regulations** relevant to the scenario
-* A simple mapping:
-
-  * e.g. “NIST CSF PR.AC-1 helps meet GDPR Article 32 by requiring access control policies.”
 
 
 ### **4. Quiz**
