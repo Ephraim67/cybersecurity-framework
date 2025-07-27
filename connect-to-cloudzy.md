@@ -120,3 +120,5 @@ If using PuTTY instead of OpenSSH:
   ```bash
   sudo tail -f /var/log/auth.log
   ```
+
+  https://dev.to/markusmp/step-by-step-guide-deploying-a-nextjs-app-on-a-vps-4iaj
